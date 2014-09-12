@@ -1,5 +1,6 @@
 /*Advanced Calculator Mk4
-Mathias Jönsson 11 Sep 2014*/
+Mathias Jönsson 11 Sep 2014
+Now with added git*/
 
 #include <stdio.h>
 
